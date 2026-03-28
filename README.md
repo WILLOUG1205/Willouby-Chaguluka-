@@ -1,18 +1,19 @@
 # Willouby-Chaguluka-
-Welcome to my GitHub Page
+
 # 👋 Welcome to my GitHub Page
 
-Hi, I'm **Willouby Chaguluka**, a BSc IT Software Engineering student (NQF Level 7) at Eduvos, South Africa.
-I’m passionate about software development, AI, web development, and tech innovation.
+Hi, I'm Willouby Chaguluka**, a BSc IT Software Engineering student (NQF Level 7) at Eduvos, South Africa.
+I'am an aspiring Software Engineer driven to desing and build systems that are efficien, scalable, and impactful.
+
+I am particularly interested in Artificial intelligence, web technologies, and backend development, ad I'm continously improving my skills through hands-on projects.
 
 ---
 
 ##  About Me
 
 I have a strong background in:
-- Programming (Python, Java, C++)
-- Web Development (HTML, CSS, JavaScript)
-- AI & Machine Learning
+- Programming ( Java, C++)
+- Project problem solving
 - Software engineering principles
 
 ---
@@ -26,10 +27,10 @@ BSc IT Software Engineering (NQF Level 7)
 
 ## 📚 Courses Taken
 
-- Applied Mathematics (1st year level)
-- Mathematics (2nd year level)
-- Physics (3rd year level)
-- Computer Science (Honours/Advanced level)
+- Applied Mathematics for Computing  (1st year level)
+- Database Systems (2nd year level)
+-  (3rd year level)
+- 
 
 ---
 

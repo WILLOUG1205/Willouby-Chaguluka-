@@ -29,8 +29,8 @@ BSc IT Software Engineering (NQF Level 7)
 
 - Applied Mathematics for Computing  (1st year level)
 - Database Systems (2nd year level)
--  (3rd year level)
-- 
+- Object Oriented Systems Analysis and Design (3rd year level)
+- Operating Systems (3rd year level)
 
 ---
 
@@ -48,4 +48,4 @@ BSc IT Software Engineering (NQF Level 7)
 - Programming Languages: Python, Java, C++
 - Web Development: HTML, CSS, JavaScript
 - Tools & Frameworks: Git, React, Node.js, VS Code
-- Databases: MySQL, MongoDB
+- Databases: MySQL,

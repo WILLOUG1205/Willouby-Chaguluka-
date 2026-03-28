@@ -25,7 +25,7 @@ BSc IT Software Engineering (NQF Level 7)
 
 ---
 
-## 📚 Courses Taken
+##  Courses Taken
 
 - Applied Mathematics for Computing  (1st year level)
 - Database Systems (2nd year level)
@@ -34,7 +34,7 @@ BSc IT Software Engineering (NQF Level 7)
 
 ---
 
-## 💡 Electives / Specializations
+##  Electives / Specializations
 
 - Artificial Intelligence & Machine Learning
 - Software Development & Architecture
@@ -43,7 +43,7 @@ BSc IT Software Engineering (NQF Level 7)
 
 ---
 
-## 🛠 Skills
+##  Skills
 
 - Programming Languages: Python, Java, C++
 - Web Development: HTML, CSS, JavaScript
